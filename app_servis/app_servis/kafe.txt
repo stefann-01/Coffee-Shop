@@ -1,0 +1,5 @@
+{"naziv":"sdfds","opis":"ssd","kategorija":"Zrno","cena":"32"}
+{"naziv":"dsssdf","opis":"3","kategorija":"Zrno","cena":"3"}
+{"naziv":"sddsdf","opis":"ds","kategorija":"Zrno","cena":"3"}
+{"naziv":"sdfds","opis":"rty","kategorija":"Zrno","cena":"4"}
+{"naziv":"sdfds","opis":"sdf","kategorija":"Zrno","cena":"3"}

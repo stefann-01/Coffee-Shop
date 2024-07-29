@@ -1,0 +1,25 @@
+{
+  "name": "checkpoint-2-igor-sstefann01",
+  "version": "1.0.0",
+  "description": "app service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app_servis/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAF-SJ-23-24/checkpoint-2-igor-sstefann01.git"
+  },
+  "author": "Stefan Nikolic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RAF-SJ-23-24/checkpoint-2-igor-sstefann01/issues"
+  },
+  "homepage": "https://github.com/RAF-SJ-23-24/checkpoint-2-igor-sstefann01#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "joi": "^17.11.0"
+  }
+}

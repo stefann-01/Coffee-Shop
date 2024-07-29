@@ -1,0 +1,3 @@
+{"naziv":"Nigerija","opis":"Light roast, aroma vanile.","kategorija":"Kapsule","cena":"580"}
+{"naziv":"Kolumbija","opis":"Medium roast, aroma čokolade.","kategorija":"Kapsule","cena":"570"}
+{"naziv":"Indija-100g","opis":"Dark roast.","kategorija":"Zrno","cena":"430"}
